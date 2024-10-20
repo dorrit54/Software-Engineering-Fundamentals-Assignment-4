@@ -42,7 +42,7 @@ public class Prescription {
             System.out.println("Fail: Cylinder or Axis validation");
             return false;
         }
-        // Condition 5: Date format check (basic validation)
+        // Condition 5: Date format check
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yy");
         sdf.setLenient(false);
         try {

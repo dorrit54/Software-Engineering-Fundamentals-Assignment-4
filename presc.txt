@@ -1,9 +1,3 @@
-John Doee, Address: 123 Main St, Suburb, 12345, Australia, Sphere: -5.50, Cylinder: -2.00, Axis: 90, Date: 12/05/23, Optometrist: Dr. Smith
-John Doee, Address: 123 Main St, Suburb, 12345, Australia, Sphere: -5.50, Cylinder: -2.00, Axis: 90, Date: 12/05/23, Optometrist: Dr. Smith
-John Doee, Address: 123 Main St, Suburb, 12345, Australia, Sphere: -5.50, Cylinder: -2.00, Axis: 90, Date: 12/05/23, Optometrist: Dr. Smith
-Emily Liao, Address: 456 Elm St, Some City, 67890, Australia, Sphere: 10.00, Cylinder: -1.00, Axis: 45, Date: 01/01/24, Optometrist: Dr. Hadid
-John Doee, Address: 123 Main St, Suburb, 12345, Australia, Sphere: -5.50, Cylinder: -2.00, Axis: 90, Date: 12/05/23, Optometrist: Dr. Smith
-John Doee, Address: 123 Main St, Suburb, 12345, Australia, Sphere: -5.50, Cylinder: -2.00, Axis: 90, Date: 12/05/23, Optometrist: Dr. Smith
-Emily Liao, Address: 456 Elm St, Some City, 67890, Australia, Sphere: 10.00, Cylinder: -1.00, Axis: 45, Date: 01/01/24, Optometrist: Dr. Amber
+
 John Doee, Address: 123 Main St, Suburb, 12345, Australia, Sphere: -5.50, Cylinder: -2.00, Axis: 90, Date: 12/05/23, Optometrist: Dr. Smith
 Emily Liao, Address: 456 Elm St, Some City, 67890, Australia, Sphere: 10.00, Cylinder: -1.00, Axis: 45, Date: 01/01/24, Optometrist: Dr. Amber

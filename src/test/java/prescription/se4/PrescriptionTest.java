@@ -55,8 +55,8 @@ public class PrescriptionTest {
         assertFalse(prescription.addRemark("This is a valid remark that more than 6 words", "not optometrist", 0));
         assertFalse(prescription.addRemark("This is a valid remark that more than 6 words", "also not optometrist", 0));
 
-        assertFalse(prescription.addRemark("not uppercase remark that more than 6 words", "optometrist", 0));
-        assertFalse(prescription.addRemark("also not uppercase remark that more than 6 words", "optometrist", 0));
+        assertFalse(prescription.addRemark("not uppercase remark that more than 6 words", "optometrist", 4));
+        assertFalse(prescription.addRemark("also not uppercase remark that more than 6 words", "optometrist", 5));
 
     }
 }
