@@ -1,0 +1,10 @@
+Category: client, Remark: This is a Valid remark that more than 6 words
+Category: client, Remark: This is a valid remark that more than 6 words
+Category: optometrist, Remark: Another Valid Remark that more than 6 words Here
+Category: optometrist, Remark: This is a very long remark that exceeds the maximum word limit of twenty words
+Category: client, Remark: This is a valid remark that more than 6 words
+Category: optometrist, Remark: Another Valid Remark that more than 6 words Here
+Category: client, Remark: This is exactly six words long
+Category: optometrist, Remark: This remark has exactly twenty words so it should pass the word count check in the method right now
+Category: client, Remark: This is a valid remark that more than 6 words
+Category: optometrist, Remark: Another Valid Remark that more than 6 words Here
